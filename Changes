@@ -8,3 +8,6 @@ Revision history for Perl extension Devel::Trace::More.
     * have filter_on take a code ref, regex ref, or scalar
     * have the $IS_INTERESTING code ref take in the module name, 
       file, line number, and code line as parameters
+
+0.02 Sun Apr 04 12:56:12 2010
+    * Removed Perl 5.10 requirement for Makefile.pl

@@ -8,7 +8,7 @@ use Exporter;
 use base 'Exporter';
 our @EXPORT_OK = qw{ trace filter_on };
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 our $IS_INTERESTING = sub { return 1; };
 our $TRACE = 1;
