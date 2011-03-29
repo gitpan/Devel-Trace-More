@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Devel-Trace-More
-version:            0.03
+version:            0.04
 abstract:           Like Devel::Trace but with more control
 author:
     - mburns <mburns.lungching@gmail.com>
